@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-04T20:51:22.174Z",
+  "updated_at": "2025-09-04T21:02:09.650Z",
   "entries": [
     {
       "alias": "awawa",
@@ -8,6 +8,10 @@
     {
       "alias": "test",
       "real": "ts6ki"
+    },
+    {
+      "alias": "testname",
+      "real": "realname"
     },
     {
       "alias": "ts6ki",
