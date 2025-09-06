@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-06T20:18:48.795Z",
+  "updated_at": "2025-09-06T20:49:41.229Z",
   "entries": [
     {
       "alias": "1Toast_1",
@@ -44,6 +44,10 @@
     {
       "alias": "Participant_536",
       "real": "ElKool"
+    },
+    {
+      "alias": "Participant_620",
+      "real": "TEST"
     },
     {
       "alias": "Participant_627",
